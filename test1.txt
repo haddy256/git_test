@@ -1,2 +1,6 @@
 today is testing day for github.
+<<<<<<< HEAD
 added one sentence from my laptop using zad
+=======
+added one sentence in github.
+>>>>>>> 0c800daa0c646004e282a2d60b8825602f212f0e
